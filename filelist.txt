@@ -1,2 +1,3 @@
-https://raw.githubusercontent.com/igorkll/webMarket/main/test.lua;test.lua
+https://raw.githubusercontent.com/igorkll/webMarket/main/test.lua;test
 https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Installer/Main.lua;mineOS;true
+https://raw.githubusercontent.com/igorkll/webMarket/main/openOS.lua;openOS
